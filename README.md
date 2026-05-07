@@ -1,9 +1,13 @@
 # A Systematic Search for Ontological Trajectories in Superconducting Quantum Circuits
 ## Thirteen Tests of the Heisenberg-Bohr Uncertainty Principle
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20075912.svg)](https://doi.org/10.5281/zenodo.20075912)
+
 [Português abaixo]
 
 ### English (US)
+
+**📄 Read the full paper on Zenodo:** [https://doi.org/10.5281/zenodo.20075912](https://doi.org/10.5281/zenodo.20075912)
 
 This repository contains the full suite of experimental protocols, raw data, and analysis scripts for the study "A Systematic Search for Ontological Trajectories in Superconducting Quantum Circuits." This investigation presents 13 distinct experiments designed to probe the ontological foundations of quantum mechanics on IBM's superconducting quantum hardware (NISQ).
 
@@ -27,6 +31,8 @@ This repository contains the full suite of experimental protocols, raw data, and
 ---
 
 ### Português (BR)
+
+**📄 Leia o artigo completo no Zenodo:** [https://doi.org/10.5281/zenodo.20075912](https://doi.org/10.5281/zenodo.20075912)
 
 Este repositório contém o conjunto completo de protocolos experimentais, dados brutos e scripts de análise para o estudo "A Systematic Search for Ontological Trajectories in Superconducting Quantum Circuits". Esta investigação apresenta 13 experimentos distintos projetados para sondar os fundamentos ontológicos da mecânica quântica no hardware quântico supercondutor (NISQ) da IBM.
 
