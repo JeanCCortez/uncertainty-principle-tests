@@ -15,8 +15,8 @@ from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
 ### ============================================================
 EXECUTION_MODE = "CLOUD"
 
-MY_TOKEN = "KwgGZ3CMazqSPiRTF7gBgoENRS4SbCqcy7C_fIdbqd1-"
-MY_CRN = "crn:v1:bluemix:public:quantum-computing:us-east:a/2751423f3df54bf9b963caabf1ceb7e4:e61c405d-5568-4f6b-97dd-0733e1af0fa3::" 
+MY_TOKEN = "YOUR_TOKEN_HERE"
+MY_CRN = "YOUR_CRN_HERE" # Get this from the 'Instances' tab on quantum.cloud.ibm.com
 
 NUM_SHOTS = 4096
 PHI_TARGET = 3.311
